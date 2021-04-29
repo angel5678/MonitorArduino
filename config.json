@@ -1,0 +1,7 @@
+{
+  "ohw_ip": "localhost",
+  "ohw_port": "8085",
+  "serial_port": "COM3",
+  "cpu_name": "Intel Core i5-8250U",
+  "ram_name": "Generic Memory"
+}
